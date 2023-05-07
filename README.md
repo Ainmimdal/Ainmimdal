@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ainmimdal
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Innovative Apps
 - 📫 How to reach me ainmimdal@gmail.com
 
